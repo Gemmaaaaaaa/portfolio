@@ -1,0 +1,11 @@
+# original / source assets — the optimised copies in the repo are what the site uses
+IMG_*.JPG
+IMG_*.jpg
+Gemini_Generated_Image_*.png
+Screenshot*.png
+
+# personal documents
+*.pdf
+
+# macOS
+.DS_Store
